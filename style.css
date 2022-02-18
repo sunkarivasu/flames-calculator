@@ -1,0 +1,60 @@
+body{
+    margin: 2% 10% 0%;
+    background-color: rgba(103, 168, 103, 0.808);
+    color:white;
+}
+
+label
+{
+    font-family: cursive,sans-serif;
+    font-weight: bolder;
+    font-size: 1.2em;
+    text-align: left;
+}
+
+.form-group
+{
+    margin: 2% auto ;
+}
+
+.form-control
+{
+    width:80%;
+    margin:2% 0%;
+    background-color: transparent;
+}
+
+.image-section
+{
+    text-align: center;
+}
+
+.big-heading
+{
+    padding:2%;
+    text-align: center;
+    line-height: 2em;
+}
+
+.row
+{
+    margin:5% auto 0% auto;
+}
+
+.relation
+{
+    text-align: center;
+   
+}
+
+.calculate-btn
+{
+    margin: 2% auto;
+    /* background-color: green;
+    border: 2px green solid; */
+}
+
+.flames-image
+{
+    width:500px;
+}
